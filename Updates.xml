@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Updates>
+	<CumulativeUpdate>
+		<OS>Windows 10 22H2</OS>
+		<Name>2022-10 Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5020435)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/10/windows10.0-kb5020435-x64_c80ba81c2e9c810fed28af5ca133d92a6b52f1dd.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 21H2</OS>
+		<Name>2022-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5020435)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/10/windows10.0-kb5020435-x64_c80ba81c2e9c810fed28af5ca133d92a6b52f1dd.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 21H2</OS>
+		<Name>2022-09 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5017308)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows10.0-kb5017308-x64_2027053968a06948b45d139d95475ab4feee5654.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 21H1</OS>
+		<Name>2022-10 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5020435)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/10/windows10.0-kb5020435-x64_c80ba81c2e9c810fed28af5ca133d92a6b52f1dd.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 21H1</OS>
+		<Name>2022-09 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5017308)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows10.0-kb5017308-x64_2027053968a06948b45d139d95475ab4feee5654.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 20H2</OS>
+		<Name>2022-10 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5020435)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/10/windows10.0-kb5020435-x64_c80ba81c2e9c810fed28af5ca133d92a6b52f1dd.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 10 20H2</OS>
+		<Name>2022-09 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5017308)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows10.0-kb5017308-x64_2027053968a06948b45d139d95475ab4feee5654.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 11 22H2</OS>
+		<Name>2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019509)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/10/windows11.0-kb5019509-x64_19d517d386a7938c7840ac581e3b731e457d7618.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 11 22H2</OS>
+		<Name>2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019311)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/09/windows11.0-kb5019311-x64_52009517a0a4140927a1c71758cb6a914b817b81.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 11 21H2</OS>
+		<Name>2022-10 Cumulative Update for Windows 11 for x64-based Systems (KB5020387)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/10/windows10.0-kb5020387-x64_76f2145bf53f02106fa3453789393abd99a8a0fa.msu</Link>
+	</CumulativeUpdate>
+	<CumulativeUpdate>
+		<OS>Windows 11 21H2</OS>
+		<Name>2022-09 Cumulative Update for Windows 11 for x64-based Systems (KB5017328)</Name>
+		<Link>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows10.0-kb5017328-x64_8fe5ec9c4d810679fb6b028280244f783c5acd09.msu</Link>
+	</CumulativeUpdate>
+</Updates>
